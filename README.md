@@ -4,10 +4,10 @@ Django is a python-based web framework that follows the model-template-view arch
 ## Getting Started
 ### Initial Steps
 
-1.Make new virtualenv: virtualenv env
-2.Activate the virtualenv: source env/bin/activate
-I3.nstall Django pip install Django
-4.Edit docs/settings.py to match your timezone
-5.Run the server python mange.py runserver
-6.Open website http://localhost:8000/polls/ or http://127.0.0.1:8000/polls/, 
+1. Make new virtualenv: virtualenv env
+2. Activate the virtualenv: source env/bin/activate
+3. nstall Django pip install Django
+4. Edit docs/settings.py to match your timezone
+5. Run the server python mange.py runserver
+6. Open website http://localhost:8000/polls/ or http://127.0.0.1:8000/polls/, 
 if you'd like to go admin page http://127.0.0.1:8000/admin/ (admin:password123)
